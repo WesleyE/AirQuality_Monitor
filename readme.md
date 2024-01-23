@@ -12,6 +12,10 @@ OTA updates and configuration is supported trough a web interface.
 
 This repository houses the source code, [BOM](./docs/AirQuality.csv), for the AirQuality V3 and the [KiCad files](./AirQuality_PCB_v3.zip).
 
+### Cost
+
+Cost for all components for a single board is about **$53**. Most expensive components are the PMS5003 ($17), SenseAir S8 ($18), the SGP41 gas sensor ($7) and the ESP32-S3 ($4.7). The 4-layer PCB itself strongely depends on how many you order, but is around $4 per PCB, brining the total cost per Air Quality sensor to **$57**.
+
 ### Sensors
 
 - NOx and VOC gas sensing - [Sensirion SGP41 sensor](https://www.sensirion.com/sgp41)
