@@ -1,0 +1,7 @@
+---
+BasedOnStyle: Google
+ColumnLimit: '150'
+IndentPPDirectives: BeforeHash
+IndentWidth: '4'
+
+...

@@ -1,0 +1,4 @@
+[submodule "V3/lib/Observe"]
+	path = V3/lib/Observe
+	url = https://github.com/TheLartians/Observe.git
+	branch = master
